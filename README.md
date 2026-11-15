@@ -1,6 +1,6 @@
 # Hi, I'm Feras 👋
 
-Full-stack web developer. I build interactive frontends with **React / Next.js / Three.js** and the backends behind them with **Node.js, Express, PostgreSQL and MySQL**.
+Full-stack web developer. I build interactive frontends with **React / Next.js** and the backends behind them with **Node.js, Express, PostgreSQL and MySQL**.
 
 ## 🚀 Featured projects
 
@@ -16,7 +16,6 @@ Full-stack web developer. I build interactive frontends with **React / Next.js /
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
