@@ -1,25 +1,27 @@
-# Hi, I'm Feras 👋
+# Feras Hamdouna (فراس حمدونة)
 
-Full-stack web developer. I build interactive frontends with **React / Next.js** and the backends behind them with **Node.js, Express, PostgreSQL and MySQL**.
+<a href="https://ferashamdouna.vercel.app/en">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img alt="Feras Hamdouna, Backend Developer. Backend systems, REST APIs, real-time, dashboards, offline-first apps and AI integration." src="assets/header-light.svg" width="100%">
+  </picture>
+</a>
 
-## 🚀 Featured projects
+**Backend Developer.** I build complete systems, from the database to the interface: dashboards and admin panels, APIs and system integrations, full web and mobile apps that work offline, and AI features.
 
-| Project | What it is | Stack |
-|---|---|---|
-| [☁️ Sahab](https://github.com/FerasHamdouna/sahab) · [live](https://sahab-lovat.vercel.app) | Weather app with a live 3D sky that reacts to the city's weather: sun, clouds, rain, snow, fog, storms, day and night | React Three Fiber · TypeScript · Express · PostgreSQL |
-| [🍽️ Rivera Menu](https://github.com/FerasHamdouna/rivera-menu) · [live](https://rivera-menu.vercel.app) | Digital QR menu and admin dashboard for a real cafe and restaurant, with printable menus and QR cards | Next.js · TypeScript · Supabase |
-| [🛒 Gaza Gate](https://github.com/FerasHamdouna/gaza-gate-project) | Marketplace backend: JWT and Google auth, real-time chat, AI assistant, image uploads, tests | Node.js · Express · MySQL · Sequelize · Socket.io |
+[Portfolio](https://ferashamdouna.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/feras-hamdouna-593a4738a) · [Upwork](https://www.upwork.com/freelancers/~01400e26b4ccc859ac) · [Mostaql](https://mostaql.com/u/feras_hamdouna) · [Khamsat](https://khamsat.com/user/feras_hamdouna)
 
-## 🛠️ Tech
+## Projects
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+**[Gaza Gate](https://ferashamdouna.vercel.app/en/work/gazagate)**: a local marketplace with multi-seller orders, real-time chat over Socket.io and a seller trust score. [Code](https://github.com/FerasHamdouna/gaza-gate-project)
+
+**[Dafter](https://ferashamdouna.vercel.app/en/work/dafter)**: a digital debt ledger for neighborhood shops. Offline-first sync, an append-only ledger and a contract-first OpenAPI spec.
+
+**[Rivera](https://ferashamdouna.vercel.app/en/work/rivera)**: a digital menu and admin dashboard for a cafe and restaurant, built on Supabase with Row Level Security. [Code](https://github.com/FerasHamdouna/rivera-menu)
+
+## Stack
+
+- **Backend:** Node.js, Express, Sequelize, Socket.io, REST, OpenAPI
+- **Databases:** PostgreSQL, MySQL, Supabase, SQLite
+- **Web and mobile:** React, Next.js, React Native, Expo, Flutter, Tailwind
+- **Deploy:** Coolify, Cloudflare, Vercel
