@@ -1,4 +1,4 @@
-# Feras Hamdouna (فراس حمدونة)
+# Feras Hamdouna (فراس حمدونه)
 
 <a href="https://ferashamdouna.vercel.app/en">
   <picture>
